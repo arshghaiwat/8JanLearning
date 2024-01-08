@@ -1,0 +1,16 @@
+{
+  "name": "07dbconnect",
+  "version": "1.0.0",
+  "description": "backend learning phase hai bhai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "backend",
+    "chai"
+  ],
+  "author": "arsh ghaiwat",
+  "license": "ISC"
+}
